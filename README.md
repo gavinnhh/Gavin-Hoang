@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/gavin0315
 - 😄 Pronouns: He
 - ⚡ Fun fact: Just found out the definition of the word "fine": not dead, still alive. So, I am fine. 
-
-Tools that I use:
+- Tools that I use:
 
 
