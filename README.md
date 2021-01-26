@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ANYTHING as long as I know
 - 📫 How to reach me: https://www.linkedin.com/in/gavin0315
 - 😄 Pronouns: He
-- ⚡ Fun fact: Just found out the definition of the word "fine": not dead, still alive. So, I am fine. 
-- Tools that I use:
+- ⚡ Fun fact: Backpropagation in training a nerual network is all about the CHAIN RULE in college calculus. 
+- Skills that I have: Java, Python, C++/C, Go, PHP, Kafka, HDFS, JavaScript, Swift, IOS dev, Node.js, REST, Spring Data Elasticsearch, Linux, SQL, Spring Boot, JDBC, MySQL, Concurrency, React, Flask, Flume, Spark, NLP, AWS, Docker, PyTorch, Tensorflow, Word2vec, MLib
 
 
