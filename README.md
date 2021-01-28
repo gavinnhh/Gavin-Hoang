@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Sharpening problem solving skills and watching Machine Learning lectures at https://www.youtube.com/watch?v=aIsgJJYrlXk&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&index=5
 
-- 🌱 I’m currently learning Machine Learning and NLP
+- 🌱 I’m currently learning Machine Learning, NLP and Kuebernetes
 - 👯 I’m looking to collaborate on Machine Learning project, backend service and any open source projects. 
 - 🤔 I’m looking for help with seeking Software Engineer New Grad Positions
 - 💬 Ask me about ANYTHING as long as I know
